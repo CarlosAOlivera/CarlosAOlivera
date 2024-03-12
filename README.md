@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/mrcarlosolivera" target="blank"><img src="https://img.shields.io/twitter/follow/mrcarlosolivera?logo=twitter&style=for-the-badge" alt="mrcarlosolivera" /></a> </p>
 
-- 🔭 I’m currently working on [a makeup artist webpage](https://github.com/CarlosAOlivera/Nayelis-Makeup)
+- 🔭 I’m currently working on [an ecommerce](https://github.com/CarlosAOlivera/GestionComprasBack)
 
-- 🌱 I’m currently learning **Python, Arduino, AWS**
+- 🌱 I’m currently learning **C#, Python, Arduino, AWS**
 
 - 📫 How to reach me **carlosoliverabermudez@live.com**
 
